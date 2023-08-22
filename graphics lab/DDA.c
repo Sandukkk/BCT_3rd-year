@@ -1,7 +1,4 @@
-
-
-
-    #include<iostream>
+#include<iostream>
 #include<graphics.h>
 #include<conio.h>
 #include<cmath>
